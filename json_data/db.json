@@ -31,16 +31,6 @@
       "id": 3
     },
     {
-      "firstName": "Virat",
-      "lastName": "Kohli",
-      "email": "virat@gmail.com",
-      "password": "Virat@2002",
-      "mobile": "1133557799",
-      "profileUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsZQYnc8FWICGpUA-2E62ED8bq35p0I7ErQ&s",
-      "gender": "male",
-      "id": 4
-    },
-    {
       "firstName": "Conor ",
       "lastName": "Mcgregor",
       "email": "conor@gmail.com",
@@ -49,6 +39,16 @@
       "profileUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeSdZbid6G0siZGjDU4aJXMkhMQc_RoMJ-Q&s",
       "gender": "male",
       "id": 5
+    },
+    {
+      "firstName": "Nagbhushan",
+      "lastName": "Tirth",
+      "email": "tirthnagbhushan@gmail.com",
+      "password": "3545+5",
+      "mobile": "09404835050",
+      "profileUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7dcrXKoaRT8FDoDLBGaUxyZ9_4gjsc_QYw&s",
+      "gender": "male",
+      "id": 6
     }
   ]
 }
